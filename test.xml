@@ -19980,10 +19980,34 @@
         <Date>2024-11-28</Date>
     </Rate>
     <Rate>
+        <Currency>BCH</Currency>
+        <Value>1</Value>
+        <ratex>497.70</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>BTC</Currency>
+        <Value>1</Value>
+        <ratex>91331.71</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>ETH</Currency>
+        <Value>1</Value>
+        <ratex>3522.26</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
         <Currency>BTC</Currency>
         <Value>1</Value>
         <ratex>90266.56</ratex>
         <Date>2024-11-29</Date>
+    </Rate>
+    <Rate>
+        <Currency>BCH</Currency>
+        <Value>1</Value>
+        <ratex>500.86</ratex>
+        <Date>2024-12-01</Date>
     </Rate>
     <Rate>
         <Currency>USD</Currency>
@@ -20034,10 +20058,28 @@
         <Date>2024-11-29</Date>
     </Rate>
     <Rate>
+        <Currency>ETH</Currency>
+        <Value>1</Value>
+        <ratex>3468.79</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
         <Currency>EUR</Currency>
         <Value>1</Value>
         <ratex>1.00</ratex>
         <Date>2024-11-29</Date>
+    </Rate>
+    <Rate>
+        <Currency>GBX</Currency>
+        <Value>1</Value>
+        <ratex>0.10</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>EURS</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-01</Date>
     </Rate>
     <Rate>
         <Currency>USD</Currency>
@@ -20046,10 +20088,112 @@
         <Date>2024-11-30</Date>
     </Rate>
     <Rate>
+        <Currency>BSV</Currency>
+        <Value>1</Value>
+        <ratex>67.43</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>USDC</Currency>
+        <Value>1</Value>
+        <ratex>0.94</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>USDT</Currency>
+        <Value>1</Value>
+        <ratex>0.94</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>GBX</Currency>
+        <Value>1</Value>
+        <ratex>0.10</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>EUR</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>EURS</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>BSV</Currency>
+        <Value>1</Value>
+        <ratex>66.90</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>USDC</Currency>
+        <Value>1</Value>
+        <ratex>0.94</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>USDT</Currency>
+        <Value>1</Value>
+        <ratex>0.95</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>EUR</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>BTC</Currency>
+        <Value>1</Value>
+        <ratex>92726.53</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>USD</Currency>
+        <Value>1</Value>
+        <ratex>0.95</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>BCH</Currency>
+        <Value>1</Value>
+        <ratex>504.80</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>ETH</Currency>
+        <Value>1</Value>
+        <ratex>3504.14</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>GBX</Currency>
+        <Value>1</Value>
+        <ratex>0.10</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>EURS</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
         <Currency>BTC</Currency>
         <Value>1</Value>
         <ratex>93263.57</ratex>
         <Date>2024-11-30</Date>
+    </Rate>
+    <Rate>
+        <Currency>BSV</Currency>
+        <Value>1</Value>
+        <ratex>69.09</ratex>
+        <Date>2024-12-03</Date>
     </Rate>
     <Rate>
         <Currency>BCH</Currency>
@@ -20094,10 +20238,46 @@
         <Date>2024-11-30</Date>
     </Rate>
     <Rate>
+        <Currency>USDC</Currency>
+        <Value>1</Value>
+        <ratex>0.96</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
         <Currency>EUR</Currency>
         <Value>1</Value>
         <ratex>1.00</ratex>
         <Date>2024-11-30</Date>
+    </Rate>
+    <Rate>
+        <Currency>USDT</Currency>
+        <Value>1</Value>
+        <ratex>0.96</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>USD</Currency>
+        <Value>1</Value>
+        <ratex>0.95</ratex>
+        <Date>2024-12-01</Date>
+    </Rate>
+    <Rate>
+        <Currency>EUR</Currency>
+        <Value>1</Value>
+        <ratex>1.00</ratex>
+        <Date>2024-12-03</Date>
+    </Rate>
+    <Rate>
+        <Currency>BTC</Currency>
+        <Value>1</Value>
+        <ratex>91725.45</ratex>
+        <Date>2024-12-02</Date>
+    </Rate>
+    <Rate>
+        <Currency>USD</Currency>
+        <Value>1</Value>
+        <ratex>0.95</ratex>
+        <Date>2024-12-02</Date>
     </Rate>
     <BaseCurrency>EUR</BaseCurrency>
 </FxRates>
